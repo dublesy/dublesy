@@ -1,5 +1,2 @@
 ## Spring boot project
-<!---
-dublesy/dublesy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+스프링 부트 프로젝트 입니다.
