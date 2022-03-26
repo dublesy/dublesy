@@ -4,12 +4,14 @@ import com.fastcampus.springpractice.service.SortService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.cache.annotation.EnableCaching;
 
 import java.util.Arrays;
 import java.util.List;
 
+@EnableCaching
 @SpringBootTest
-class MainTest {
+class MainApplicationTest {
 
 
     @Autowired
